@@ -11,9 +11,12 @@ This program calculates either the amount of interest accrued on an amount for r
 It is written in Python and can be downloaded and run on any machine supporting Python.
 
 Calculating investment on interest:
+
 ![image](https://github.com/George-RN/finalCapstone/assets/131712227/44f6d984-b6ba-42b0-bdd5-5c27299e44b3)
 
+
 Calculating the return on a bond:
+
 ![image](https://github.com/George-RN/finalCapstone/assets/131712227/f330d2c7-ae6a-4426-be6d-651c11d5eb64)
 
 
@@ -25,8 +28,11 @@ This program converts a 2D array into a format that displays the proximity to a 
 It is written in Python and can be downloaded and run on any machine supporting Python.
 
 The original 2D array:
+
 ![image](https://github.com/George-RN/finalCapstone/assets/131712227/1943e8f5-5877-43bc-bee5-db23e6640731)
+
 The resuting 2D array once it has been run:
+
 ![image](https://github.com/George-RN/finalCapstone/assets/131712227/b52ca044-ddc8-41c2-b340-a934edc69706)
 
   
